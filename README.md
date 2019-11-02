@@ -1,2 +1,2 @@
-# Entertainment-API
-A Node API to handle all interaction with Entertainment data
+# Playbill-API
+A Node.js API to handle all interaction with Playbill data
